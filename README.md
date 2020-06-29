@@ -1,4 +1,4 @@
-# Megadown - v2.0
+# Megadown - v2.0 (New Mega Links updated)
 Bash download script for Mega.nz
 
 # Install
