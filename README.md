@@ -7,5 +7,5 @@ $ `curl -o /usr/local/bin/megadown https://raw.githubusercontent.com/masterofthe
 $ `sudo chmod a+rx /usr/local/bin/megadown`
 
 # Usage
-$ `megadown https://mega.nz/link`
+$ `megadown 'https://mega.nz/link'`
 
