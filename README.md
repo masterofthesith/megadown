@@ -2,7 +2,7 @@
 Bash download script for Mega.nz
 
 # Requirements
-$ `yum install pv pj -y`
+$ `yum install pv jq -y`
 
 # Install
 $ `curl -o /usr/local/bin/megadown https://raw.githubusercontent.com/masterofthesith/megadown/master/megadown`
